@@ -1,20 +1,21 @@
-typography_spectrum: 0.17693501082248986
+typography_spectrum: 0.30133361043408513
 content_rating:
   adult: false
 color:
-  brandStrength: 0.029612951911985874
-  lightness: 0.7736604225356132
-  saturation: 0.9378846418112516
-  rhythmicContrast: 0.21573901060037315
+  brandStrength: 0.14528485131449997
+  lightness: 0.46203104685992
+  saturation: 0.27633622754365206
+  rhythmicContrast: 0.20215731719508767
   brandColors:
     - '#000000'
-    - '#333333'
-    - '#FF358B'
-    - '#01B0F0'
-    - '#AEEE00'
-layout_spectrum: 0.21798669663257897
+    - '#404040'
+    - '#808080'
+    - '#BFBFBF'
+    - '#FFFFFF'
+layout_spectrum: 0.5640191733837128
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/0bb1dba7-65f8-44f2-81a8-aa1c799f3b1c.jpg
 name: Muscleriffic
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/43a6bac4-3b2c-4dcb-9648-6fdcb6ba3711.jpg
+title: MUSCLERIFFIC
