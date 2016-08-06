@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Muscleriffic]]></title>
         <description><![CDATA[Muscleriffic]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://muscleriffic.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 06 Aug 2016 22:42:04 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 06 Aug 2016 22:42:54 GMT</lastBuildDate>
+        <atom:link href="http://muscleriffic.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c6a3ef7d-2062-4060-b52b-207125893d46.jpg">]]></description>
+            <link>http://muscleriffic.com/c44dcc78-e990-4d9d-9471-03ed78a69afd/index.html</link>
+            <guid isPermaLink="false">c44dcc78-e990-4d9d-9471-03ed78a69afd</guid>
+            <pubDate>Sat, 06 Aug 2016 22:41:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2f917b16-a32d-4e1e-8566-90712d208248.jpg">]]></description>
-            <link>undefined2ee88def-6947-485a-a987-2f61853c1371/index.html</link>
+            <link>http://muscleriffic.com/2ee88def-6947-485a-a987-2f61853c1371/index.html</link>
             <guid isPermaLink="false">2ee88def-6947-485a-a987-2f61853c1371</guid>
             <pubDate>Sat, 06 Aug 2016 22:41:26 GMT</pubDate>
         </item>
